@@ -2,7 +2,7 @@
 
 ### Zoha Fatima
 
-AI · Full-Stack · Mobile &nbsp;·&nbsp; CS @ FAST NUCES Lahore &nbsp;·&nbsp; GPA 3.57 / 4.0
+AI · Full-Stack · Mobile &nbsp;·&nbsp; CS @ FAST NUCES  &nbsp;·&nbsp; GPA 3.57 / 4.0
 
 [zohafatima425@gmail.com](mailto:zohafatima425@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/zoha-fatima-425627296) &nbsp;·&nbsp; Lahore, Pakistan
 
@@ -42,10 +42,7 @@ Full-stack platform with authentication, image-based listings, geolocation taggi
 
 **ML / AI**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-&nbsp;&nbsp;
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/BERT%20%7C%20DistilBERT%20%7C%20mBERT-4A90D9?style=flat-square)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />&nbsp;<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />&nbsp;<img src="https://img.shields.io/badge/BERT_%7C_DistilBERT_%7C_mBERT-4A90D9?style=flat-square" alt="Transformers" />
 
 **Languages**
 
@@ -57,15 +54,11 @@ Full-stack platform with authentication, image-based listings, geolocation taggi
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite" />
-&nbsp;&nbsp;
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite" />&nbsp;<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 
 **Mobile**
 
-<img src="https://skillicons.dev/icons?i=androidstudio" />
-&nbsp;&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=androidstudio" />&nbsp;<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 
 **Tools**
 
